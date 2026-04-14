@@ -24,7 +24,7 @@ Given the time I had available, as I was simultaneously participating in the NCL
 Moving forward, I plan to continue developing my hardware skills through my ESP32 Secure Boot project to better prepare for future events like this.
 
 ### Proof of Participation
-While unfortunatly I do not have the code I wrote, I do have a photo of me creating wires for my teammates to use in the project - or rather learning to make them. I also have a photo of the parts used to create the alarm.
+While unfortunatly I do not have the code I wrote, I do have a photo of me creating wires for my teammates to use in the project - or rather learning to make them. I also have a photo of the physical harware parts used to create the alarm.
 ![CPTS 427 - EA 2 SS1](https://github.com/user-attachments/assets/c2e1b7f4-ccbd-4fb4-86f6-ce3ec0840832)
 ![CPTS 427 - EA 2 SS2](https://github.com/user-attachments/assets/84cde7be-dcaa-4a29-b880-8f33b1328a7f)
 
